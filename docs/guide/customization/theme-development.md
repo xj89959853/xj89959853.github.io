@@ -1,3 +1,0 @@
-# theme-development
-
-theme-development
